@@ -42,4 +42,5 @@ For PyBank: python pybank_script.py
 For PyPoll: python pypoll_script.py
 
 Conclusion
+
 These Python scripts provide an automated solution to analyze financial records and election data efficiently, offering quick insights into the datasets with minimal manual intervention. They are adaptable for similar datasets and can be customized for more detailed analysis as required.
